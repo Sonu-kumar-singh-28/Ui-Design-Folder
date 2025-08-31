@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewArrributesUnderstandActivity</string>
+    <string name="welcome_android_studio">Welcome Android Studio</string>
+    <string name="subscribe_studio">Subscribe Studio</string>
+    <string name="saved_studio_playlist">Saved Studio Playlist</string>
+    <string name="sonu_kumar_singh">Sonu Kumar SIngh</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up1">Sign Up</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
